@@ -1,6 +1,6 @@
 # vuetest
 
-## eslintStudy 
+## test2 
 
 ## Project setup
 ```
