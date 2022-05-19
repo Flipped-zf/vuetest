@@ -1,6 +1,6 @@
 # vuetest
 
-## test2 
+## eslintStudy 22212
 
 ## Project setup
 ```
@@ -14,7 +14,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run build/852120
 ```
 
 ### Lints and fixes files
